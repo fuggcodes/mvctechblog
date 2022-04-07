@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abduler21/mvc-tech-blog.git"
+    "url": "git+https://github.com/fuggcodes/mvctechblog"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Abduler21/mvc-tech-blog/issues"
+    "url": "https://github.com/fuggcodes/mvctechblog"
   },
-  "homepage": "https://github.com/Abduler21/mvc-tech-blog#readme",
+  "homepage": "https://github.com/fuggcodes/mvctechblog",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
