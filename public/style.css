@@ -197,3 +197,17 @@ input {
   border: 2px solid var(--light-dark);
   border-radius: var(--border-radius);
 }
+
+/* HEIGHT / WIDTH UTILS */
+.min-100-vh {
+    min-height: 100vh;
+  }
+  
+  .min-100-vw {
+    min-width: 100vw;
+  }
+  
+  /* FONT UTILS */
+  .text-uppercase {
+    text-transform: uppercase;
+  }
